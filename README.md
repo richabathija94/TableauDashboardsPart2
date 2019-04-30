@@ -13,3 +13,5 @@ Your task is to assist the Board in identifying which businesses represent the b
 ## Section 5: Creating Animations In Tableau
 You have been hired by the World Bank as a Tableau Developer. Deliver an animated dashboard showing how populations of countries across the world have been developing over the past 50 years. Specifically, the stakeholders of this assignment are interested to see overall trends in fertility, life expectancy and population. In addition to overall trends they would like to be able to drill into individual countries.
 
+A Tableau Animation has been created to show the changing trends of Fertility Rate vs Life Expectancy at Birth of different countries. The regions have been colour coded and the size of the bubble shows the size of population in that country.
+
